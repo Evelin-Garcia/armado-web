@@ -1,0 +1,132 @@
+*{margin: 0px;
+  padding: 0px;}
+
+*{box-sizing: border-box}
+
+body{background-color: black;
+    background-image: url("fotos/bg_02.jpg");
+    background-position: center;
+    margin: top 0;}
+
+div{width: 850px;
+    height: 2000px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;}
+
+
+header {width: 850px; 
+        height: 125px;}
+
+header img{width: 250px;
+            padding-top: 30px;
+            padding-left: 30px;}
+
+header nav{width: 500px;
+            margin-left: 50px;
+            margin-right: 0px;
+            float: right;
+            margin-top: 60px;
+            background-color: black;}
+
+header nav a{color: white;
+            text-transform: uppercase;
+            text-decoration: none;
+            border-bottom: yellow 3px solid;
+            margin-right: 10px;
+            padding-right: 15px;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;}
+
+#texto{ width: 850px;
+        height: 32px;
+        background-color: #2c2c2c;
+        padding-left: 40px;
+        padding-top: 8px;
+        margin: left 30px;
+        }
+
+nav a   {font-size: 12px;
+        color: green;
+        text-decoration: none;
+        vertical-align: middle;}
+
+nav p{ font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding-right: 10px;}
+
+aside { background-color: black;
+        width: 350px;
+        height: 1800px;
+        float: right;
+        margin-left:30px;}
+
+.google{ width: 200px;
+        margin-top: 15px;
+        margin-right: 60px;
+        margin-left: 15px;}
+
+aside iframe{ margin-left: 10px;
+                margin-right: 20px;}
+
+aside p{color: yellow;
+        border-top: yellow solid 3px;
+        margin-left: 10px;
+        margin-right: 20px;}
+
+aside video{margin-left: 10px;
+            float: left;
+            object-position: absolute;} 
+            
+aside h5{color: white;
+        float: right;
+        padding-right: 20px;
+        font-size: 20px;}
+
+aside hr{border-bottom: yellow solid 3px;
+            margin-left: 10px;
+            margin-right: 20px;}
+
+article{ background-color: black;
+        width: 500px;
+        height: 1800px;}
+
+
+section h1{color: yellow;
+           font-family: Arial, Helvetica, sans-serif;
+            font-size: 40px;
+            font-weight: 400;
+            margin-left: 15px;
+            padding-top: 50px;
+           }
+
+section h2{color: yellow;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px;
+            font-weight:500;
+            margin-left: 15px;}
+
+
+
+p{color: white;
+        text-align: justify;
+        padding-left: 15px;}
+.parrafoamarillo {color: black; background-color: yellow;}
+
+section img{border: 5px solid grey;
+            float: left;
+            }
+
+section h4{ color: rgb(102, 99, 99);
+            padding-left: 15px;}
+section h5{ color:white;
+            border-bottom: orange solid 3px;
+            margin-right: 30px;
+            margin-left:15px;
+            padding-bottom: 15px;}
+
+footer p{color: white;
+        background-color: black;
+        padding-bottom: 15px;}
